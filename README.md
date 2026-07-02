@@ -1,8 +1,6 @@
+<img width="1834" height="938" alt="banner-github png" src="https://github.com/user-attachments/assets/eba9409e-ba65-438a-8f11-11c468c5e00f" />
 <!-- HERO SECTION -->
 
-<p align="center">
-  <img src="assets/banner-github.png" alt="Mahdi Mohebi Banner" />
-</p>
 
 <h1 align="center">👋 Hi, ich bin <strong>Mahdi Mohebi</strong></h1>
 <h3 align="center">.NET Developer • UI/UX Enthusiast • Cybersecurity Learner</h3>

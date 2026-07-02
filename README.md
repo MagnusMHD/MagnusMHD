@@ -1,4 +1,9 @@
 <!-- HERO SECTION -->
+
+<p align="center">
+  <img src="assets/banner-github.png" alt="Mahdi Mohebi Banner" />
+</p>
+
 <h1 align="center">👋 Hi, ich bin <strong>Mahdi Mohebi</strong></h1>
 <h3 align="center">.NET Developer • UI/UX Enthusiast • Cybersecurity Learner</h3>
 

@@ -111,8 +111,15 @@ Automatisierung wiederkehrender Aufgaben in Revit/Dynamo.
 ---
 
 # 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagnusMHD&show_icons=true&theme=tokyonight" />
+ mohebimahdi1@gmail.com">
+    .shields.io/badge/Email-Kontakt-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  .vercel.app/api?username=MagnusMHD&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
